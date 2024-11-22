@@ -72,8 +72,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # User Graphics
-.jpg
-.png
-.jpeg
-.zip
-.rar
+*.jpg
+*.png
+*.jpeg
+*.zip
+*.rar
